@@ -1,0 +1,8 @@
+Meerab,Johar Town,1234,890
+Ayesha,Johar Town,2000,12
+Ayesha,Johar Town,4000,200
+Ali,Model Town,2000,300
+Ahmad,Wapda Town,200,20
+Aleesha,Bahria,5000,200
+Usman,Model Town,40000,600
+Bushra,Bahria,3000,20
